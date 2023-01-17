@@ -13,9 +13,8 @@ After shouldering the responsibilities of a founder and honing my skills as a Fu
 - :point_right:	I’m interested in Web Development, Data Science, Data Analysis, Machine Learning, Deep Learning and Natural Laguage Processing
 - :hammer: I'm currently working on some interesting Natural Laguage Processing Projects.
 - :seedling:	I'm currenly also learning Google Cloud Platform (GCP).
-- :handshake:	 I’m open to collaborating on usefull applications which will solve some real life problems .  
-- 💻 As a proffesional I aspire to make things that improve lives so feel free to contact me if that's your goal as well.
-- :slightly_smiling_face:	Pronouns: He/Him
+- :handshake:	 I’m open to collaborating on usefull applications which will solve some real life problems.  
+- 💻 As a proffesional I aspire to make things that improve lives, so feel free to contact me if that's your goal as well.
 
 ## Things I use:
 ![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,django,js,react,nodejs,bootstrap,html,css,github,vscode,gcp,aws,netlify,heroku,mongodb,mysql&perline=9)

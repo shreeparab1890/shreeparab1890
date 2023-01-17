@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=jarek-pacocha&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello%20and%20welcome%20to%20my%20GitHub%20profile!&descAlignY=53&descAlign=68)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=shrikrishna-parab&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello%20and%20welcome%20to%20my%20GitHub%20profile!&descAlignY=53&descAlign=68)
 # Hi, I'm Shrikrishna! [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">](https://shrikrishnaparab.tech/)
 
-## I am a Data Scientist and a Python Developer.
+##I am a Data-Driven, Passionate Data Scientist and Machine Learning Enthusiast.
 
 - :point_right:	I’m interested in web development, cloud solutions, DevOps and data engineering.
 - :hammer: I'm currently working on contributing to interesting Open Source projects.

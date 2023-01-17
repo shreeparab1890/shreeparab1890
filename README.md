@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=Shrikrishna%20Parab&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Hello%20and%20welcome%20to%20my%20GitHub%20profile!&descAlignY=53&descAlign=68)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=Shrikrishna%20Parab&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Hello%20and%20Welcome%20Tto%20my%20GitHub%20Profile!&descAlignY=53&descAlign=68)
 # Hi, I'm Shrikrishna! [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">](https://shrikrishnaparab.tech/)
 
 ## I am a Data-Driven, Passionate Data Scientist and Machine Learning Enthusiast
@@ -10,19 +10,19 @@ Motivated by my passion for tackling new and challenging problems, I founded an 
 
 After shouldering the responsibilities of a founder and honing my skills as a Full-Stack Developer(MERN Stack, Django) for five years in my startup with many ups and downs, my passion for data science has drawn me back to the field. I am excited to apply my experience and skills to analyze and interpret complex data, uncover valuable insights and develop data-driven solutions.
 
-- :point_right:	I’m interested in web development, cloud solutions, DevOps and data engineering.
-- :hammer: I'm currently working on contributing to interesting Open Source projects.
+- :point_right:	I’m interested in Web Development, Data Science, Data Analysis, Machine Learning, Deep Learning and Natural Laguage Processing
+- :hammer: I'm currently working on some interesting Natural Laguage Processing Projects.
 - :seedling:	I'm currenly also learning Google Cloud Platform (GCP).
-- :handshake:	 I’m open to collaborating on usefull applications of Python language as well as implementing cloud driven solutions.  
+- :handshake:	 I’m open to collaborating on usefull applications which will solve some real life problems .  
 - 💻 As a proffesional I aspire to make things that improve lives so feel free to contact me if that's your goal as well.
 - :slightly_smiling_face:	Pronouns: He/Him
 
 ## Things I use:
-![My Skills](https://skillicons.dev/icons?i=py,django,bootstrap,html,css,gcp,git,github,vscode,datascience)
+![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,django,js,react,nodejs,bootstrap,html,css,github,vscode,gcp,aws,netlify,heroku,mongodb,mysql&perline=9)
 
 
 ## 📫 How to reach me (right click for new window):
-[![LinkedInLogo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrikrishnaparab/)
+[![LinkedInLogo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrikrishnaparab/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://shrikrishnaparab.medium.com/) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shrikrishnaparab) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/shrikrishnaparab) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shrikrishnaparab/)
 
 
 - [x] Visit my profile

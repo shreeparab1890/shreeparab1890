@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=Shrikrishna%20Parab&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Hello%20and%20Welcome%20to%20my%20GitHub%20Profile!&descAlignY=53&descAlign=68)
-# Hi, I'm Shrikrishna! [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">](https://shrikrishnaparab.tech/)
+# Hi, I'm Shrikrishna Parab! [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">](https://shrikrishnaparab.tech/)
 
 ## I am a Data-Driven, Passionate Data Scientist and Machine Learning Enthusiast
 Data has always fascinated me. My passion for uncovering insights and answering complex questions with the help of data has led me to the field of Data Science.

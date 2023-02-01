@@ -10,8 +10,8 @@ Motivated by my passion for tackling new and challenging problems, I founded an 
 
 After shouldering the responsibilities of a founder and honing my skills as a Full-Stack Developer(MERN Stack, Django) for five years in my startup with many ups and downs, my passion for data science has drawn me back to the field. I am excited to apply my experience and skills to analyze and interpret complex data, uncover valuable insights and develop data-driven solutions.
 
-- :point_right:	I’m interested in Web Development, Data Science, Data Analysis, Machine Learning, Deep Learning and Natural Laguage Processing
-- :hammer: I'm currently working on some interesting Natural Laguage Processing Projects.
+- :point_right:	I’m interested in Data Science, Data Analysis, Machine Learning, Deep Learning, Natural Laguage Processing and Web Development
+- :hammer: I'm currently working on some interesting Natural Laguage Processing and a predictive analysis project.
 - :seedling:	I'm currenly also learning Google Cloud Platform (GCP).
 - :handshake:	 I’m open to collaborating on usefull applications which will solve some real life problems.  
 - 💻 As a proffesional I aspire to make things that improve lives, so feel free to contact me if that's your goal as well.

@@ -17,7 +17,7 @@ After shouldering the responsibilities of a founder and honing my skills as a Fu
 - 💻 As a proffesional I aspire to make things that improve lives, so feel free to contact me if that's your goal as well.
 
 ## Things I use:
-![My Skills](https://skillicons.dev/icons?i=py,django,js,react,vue,nodejs,expressjs,vite,html,css,bootstrap,tailwind,figma,ai,tensorflow,pytorch,sklearn,mongodb,mysql,sqlite,aws,heroku,netlify,vscode,github&perline=13)
+![My Skills](https://skillicons.dev/icons?i=py,django,js,react,vue,nodejs,expressjs,vite,html,css,bootstrap,tailwind,figma,ai,tensorflow,pytorch,sklearn,mongodb,mysql,sqlite,aws,heroku,netlify,vscode,anaconda,github&perline=13)
 
 
 ## 📫 How to reach me (right click for new window):

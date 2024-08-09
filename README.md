@@ -22,7 +22,7 @@ After shouldering the responsibilities of a founder and honing my skills as a Fu
 
 ## 📫 How to reach me (right click for new window):
 [![LinkedInLogo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrikrishnaparab/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://shrikrishnaparab.medium.com/) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shrikrishnaparab) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/shrikrishnaparab) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shrikrishnaparab/)  
-### You can also visit my webiste at: <a href="https://shrikrishnaparab.tech/">shikrishnaparab.tech</a>
+### You can also visit my webiste at: <a href="https://shrikrishnaparab.in/">shikrishnaparab.in</a>
 
 - [x] Visit my profile
 - [x] Read my page

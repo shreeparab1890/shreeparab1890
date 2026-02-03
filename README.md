@@ -1,7 +1,7 @@
  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=Shrikrishna%20Parab&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Hello%20and%20Welcome%20to%20my%20GitHub%20Profile!&descAlignY=53&descAlign=68)
 # Hi, I'm Shrikrishna Parab! [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">](https://shrikrishnaparab.tech/)
 
-## I am a Data-Driven, Passionate Data Scientist and Machine Learning Enthusiast
+## I am a Data-Driven, Passionate Data Scientist, Machine Learning & NLP Enthusiast
 Data has always fascinated me. My passion for uncovering insights and answering complex questions with the help of data has led me to the field of Data Science.
 
 I earned a Diploma in Electronics and Communication in 2010, followed by a Bachelor of Engineering (BE) in Information Technology in 2013. My early professional journey began as a PHP developer, where I honed my skills in web technologies. I then pursued a Master of Technology (MTech) in Computer Science in 2016, specializing in Natural Language Processing (NLP). During my MTech, I gained valuable experience in Deep Learning, NLP, and Information Retrieval through an internship under the mentorship of Dr. Pushpak Bhattacharyya at the Center for Indian Languages and Technology (CFILT), IIT Bombay.
